@@ -18,4 +18,4 @@ To use the application, open `index.html` in a web browser.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE). Click [here](LICENSE) for details.
